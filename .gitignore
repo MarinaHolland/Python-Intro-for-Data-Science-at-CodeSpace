@@ -1,5 +1,7 @@
 #ignore sensitive data
 data/
+#ignore more sensitive data
+data bootcamp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
