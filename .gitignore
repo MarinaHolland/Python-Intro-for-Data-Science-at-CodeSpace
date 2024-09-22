@@ -1,7 +1,9 @@
-#ignore sensitive data
+# ignore sensitive data
 data/
-#ignore more sensitive data
+# ignore more sensitive data
 data bootcamp/
+# ignore data from eda analysis
+data_eda/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
